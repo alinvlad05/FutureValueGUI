@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" 
+      codebase=""
+      href="future_value.jnlp">
+    <information>
+    </information>
+    <resources>
+    </resources>
+    <application-desc></application-desc>
+    <update check="background"
+            policy="prompt-run" />
+</jnlp>
