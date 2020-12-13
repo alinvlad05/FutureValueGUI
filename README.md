@@ -1,2 +1,2 @@
 # FutureValueGUI
- Basic Swing GUI calculator+Input Validation
+ Java Swing GUI Calculator + Input Validation
